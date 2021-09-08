@@ -1,0 +1,66 @@
+[
+    {
+        "ID": "E1",
+        "NAME": "Viraj",
+        "SALARY": 54000.00,
+        "DEPARTMENT": "SAP",
+        "CITY": "Mumbai",
+        "JOINING_DATE": "08-09-2018"
+    },
+    {
+        "ID": "E2",
+        "NAME": "Saket",
+        "SALARY": 54000.00,
+        "DEPARTMENT": "TESTING",
+        "CITY": "Goa",
+        "JOINING_DATE": "15-08-2018"
+    },
+    {
+        "ID": "E3",
+        "NAME": "Dhananjay",
+        "SALARY": 48000.00,
+        "DEPARTMENT": "DESIGN",
+        "CITY": "Gujarat",
+        "JOINING_DATE": "06-06-2019"
+    },
+    {
+        "ID": "E4",
+        "NAME": "Shreya",
+        "SALARY": 60000.00,
+        "DEPARTMENT": "DEVELOPER",
+        "CITY": "Mumbai",
+        "JOINING_DATE": "01-05-2015"
+    },
+    {
+        "ID": "E5",
+        "NAME": "Kasturi",
+        "SALARY": 36000.00,
+        "DEPARTMENT": "DESIGN",
+        "CITY": "Bengaluru",
+        "JOINING_DATE": "15-12-2020"
+    },
+    {
+        "ID": "E6",
+        "NAME": "Omkar",
+        "SALARY": 45000.00,
+        "DEPARTMENT": "TESTING",
+        "CITY": "Pune",
+        "JOINING_DATE": "30-10-2020"
+    },
+    {
+        "ID": "E7",
+        "NAME": "Janardan",
+        "SALARY": 50000.00,
+        "DEPARTMENT": "SAP",
+        "CITY": "Navi Mumbai",
+        "JOINING_DATE": "04-01-2019"
+    },
+    {
+        "ID": "E8",
+        "NAME": "Bhushan",
+        "SALARY": 52000.00,
+        "DEPARTMENT": "DEVELOPER",
+        "CITY": "Pune",
+        "JOINING_DATE": "24-07-2020"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "FID": "F1",
+        "ID": "E1",
+        "NAME": "Suhas",
+        "RELATION": "Father",
+        "GENDER": "Male",
+        "AGE": 58
+    },
+    {
+        "FID": "F2",
+        "ID": "E1",
+        "NAME": "Vaishali",
+        "RELATION": "Mother",
+        "GENDER": "Female",
+        "AGE": 55
+    },
+    {
+        "FID": "F3",
+        "ID": "E2",
+        "NAME": "Mahesh",
+        "RELATION": "Father",
+        "GENDER": "Male",
+        "AGE": 60
+    },
+    {
+        "FID": "F4",
+        "ID": "E2",
+        "NAME": "Bhagyashree",
+        "RELATION": "Mother",
+        "GENDER": "Female",
+        "AGE": 55
+    },
+    {
+        "FID": "F5",
+        "ID": "E2",
+        "NAME": "Aryan",
+        "RELATION": "Brother",
+        "GENDER": "Male",
+        "AGE": 25
+    },
+    {
+        "FID": "F6",
+        "ID": "E3",
+        "NAME": "Dhanashri",
+        "RELATION": "Wife",
+        "GENDER": "Female",
+        "AGE": 30
+    },
+    {
+        "FID": "F7",
+        "ID": "E3",
+        "NAME": "Vyas",
+        "RELATION": "Son",
+        "GENDER": "Male",
+        "AGE": 4
+    },
+    {
+        "FID": "F8",
+        "ID": "E4",
+        "NAME": "Sameer",
+        "RELATION": "Husband",
+        "GENDER": "Male",
+        "AGE": 32
+    },
+    {
+        "FID": "F9",
+        "ID": "E4",
+        "NAME": "Shruti",
+        "RELATION": "Daughter",
+        "GENDER": "Female",
+        "AGE": 5
+    },
+    {
+        "FID": "F10",
+        "ID": "E5",
+        "NAME": "Ashok",
+        "RELATION": "Father",
+        "GENDER": "Male",
+        "AGE": 55
+    },
+    {
+        "FID": "F11",
+        "ID": "E5",
+        "NAME": "Avantika",
+        "RELATION": "Mother",
+        "GENDER": "Female",
+        "AGE": 50
+    },
+    {
+        "FID": "F12",
+        "ID": "E7",
+        "NAME": "Jagannath",
+        "RELATION": "Father",
+        "GENDER": "Male",
+        "AGE": 62
+    },
+    {
+        "FID": "F13",
+        "ID": "E7",
+        "NAME": "Jagruti",
+        "RELATION": "Mother",
+        "GENDER": "Female",
+        "AGE": 58
+    },
+    {
+        "FID": "F14",
+        "ID": "E8",
+        "NAME": "Bhupesh",
+        "RELATION": "Father",
+        "GENDER": "Male",
+        "AGE": 63
+    },
+    {
+        "FID": "F15",
+        "ID": "E8",
+        "NAME": "Bhumi",
+        "RELATION": "Mother",
+        "GENDER": "Female",
+        "AGE": 61
+    }
+]
